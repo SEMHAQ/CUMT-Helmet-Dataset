@@ -26,7 +26,8 @@ cn-version:
 'people'&'no-helmet' --'0'  
 对于其他的皆忽略处理。
 
-请注意，该数据集来源https://github.com/CUMT-AIPR-Lab/CUMT-AIPR-Lab。本项目仅分享并进行少量改进，请确保合理用途。
+请注意，该数据集来源https://github.com/CUMT-AIPR-Lab/CUMT-AIPR-Lab   
+本项目仅分享并进行少量改进，请确保合理用途。
 
 
 
