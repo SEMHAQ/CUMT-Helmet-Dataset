@@ -1,0 +1,26 @@
+<annotation>
+	<folder>250-499</folder>
+	<filename>MHDD_5578.jpg</filename>
+	<path>D:\us\voc-coal\2863\best\jpg2\MHDD_5578.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1016</width>
+		<height>586</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+    <name>no-helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>84</ymin>
+			<xmax>928</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

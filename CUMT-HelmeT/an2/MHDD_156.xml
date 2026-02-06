@@ -1,0 +1,26 @@
+<annotation>
+	<folder>600</folder>
+	<filename>MHDD_156.jpg</filename>
+	<path>D:\us\voc-coal\2863\best\jpg2\MHDD_156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>892</width>
+		<height>597</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>112</ymin>
+			<xmax>612</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

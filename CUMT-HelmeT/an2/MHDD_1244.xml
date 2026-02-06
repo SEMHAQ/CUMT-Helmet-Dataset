@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shujuji-helmet</folder>
+	<filename>MHDD_1244.jpg</filename>
+	<path>D:\us\voc-coal\2863\best\jpg2\MHDD_1244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>14</ymin>
+			<xmax>545</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

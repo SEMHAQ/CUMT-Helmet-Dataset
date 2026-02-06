@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MHDD_3792.jpg</filename>
+	<path>D:\us\voc-coal\2863\best\jpg2\MHDD_3792.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>13</ymin>
+			<xmax>1257</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

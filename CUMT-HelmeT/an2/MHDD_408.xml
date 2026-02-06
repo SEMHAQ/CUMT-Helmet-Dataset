@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>MHDD_408.jpg</filename>
+	<path>D:\us\voc-coal\2863\best\jpg2\MHDD_408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>1</ymin>
+			<xmax>353</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>
